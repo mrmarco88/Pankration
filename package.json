@@ -1,0 +1,20 @@
+{
+  "name": "pankration",
+  "version": "0.0.0",
+  "description": "Description for Pankration",
+  "private": true,
+  "license": "UNLICENSED",
+  "cacheDirectories": [
+    "node_modules"
+  ],
+  "devDependencies": {
+    "generator-jhipster-primeng": "2.0.39",
+    "generator-jhipster-ionic": "3.1.1",
+    "generator-jhipster-spring-cloud-stream": "0.0.2",
+    "generator-jhipster-nav-element": "1.4.19",
+    "generator-jhipster": "4.14.0"
+  },
+  "engines": {
+    "node": ">=6.9.0"
+  }
+}
